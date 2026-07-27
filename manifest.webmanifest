@@ -1,0 +1,11 @@
+{
+  "name": "我的账本",
+  "short_name": "我的账本",
+  "start_url": "my-money.html",
+  "display": "standalone",
+  "background_color": "#f6f8f7",
+  "theme_color": "#167b53",
+  "icons": [
+    { "src": "ledger-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
